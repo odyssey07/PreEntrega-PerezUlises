@@ -1,11 +1,3 @@
-/* 
-La idea es bastante simple, es lo que se me ocurrio para aplicar objetos y metodos de filtrado sin usar el DOM todavía.
-
-Tuve que recurrir a que el programa imprima por consola por el espacio que ocupa todo lo que muestra en pantalla. La idea sería por supuesto hacerlo en HTML, pero no quería avanzar con el tema de DOM para que la tercer pre-entrega tenga sentido. No es para nada comodo ni ideal como imprime, pero bueno, es lo mejor que pude hacer. 
-
-Comentar sobre los posibles errores en tiempo de ejecución.
-*/
-
 // Funciones
 
 function maxToNormalize(array, keys) {
